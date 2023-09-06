@@ -1,3 +1,5 @@
+# Team: Akash Vidyadharan, Maya Dunlap, Sai Kishore Neppali and Venkata Nagendar Reddy
+
 import math as m
 
 # This is the first program
